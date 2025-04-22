@@ -4,7 +4,7 @@
   "modpackName": "CorleySMP",
   "modpackAuthor": "Corley",
   "modpackReleaseType": "stable",
-  "githubRepo": "https://raw.githubusercontent.com/Corley0/CollegeSMP-Mods/refs/heads/main/meta.json/",
+  "githubRepo": "https://raw.githubusercontent.com/Corley0/CollegeSMP-Mods/refs/heads/main/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
